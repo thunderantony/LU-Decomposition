@@ -20,6 +20,7 @@ To write a program to find the LU Decomposition of a matrix.
 
 
 (ii) To find the L and U matrix
+
 ![Screenshot 2024-04-16 212639](https://github.com/thunderantony/LU-Decomposition/assets/149364638/73114439-0084-4c8b-af8a-e48b103f829f)
 
 
